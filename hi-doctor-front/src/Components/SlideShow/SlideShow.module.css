@@ -1,0 +1,81 @@
+.margin{
+    margin: 22px 0;
+    display: flex;
+}
+.slidewidth{
+    width: 65%;
+    margin: 10px 50px;
+}
+.each {
+    display: flex;
+}
+
+
+.chap {
+    background-image: url(../../image/picture.png);
+    width: 400px;
+    height: 370px;
+    margin: 0 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;    
+    border-radius:10px ;
+}
+
+.chap2 {
+    background-image: url(https://images.vexels.com/media/users/3/199903/isolated/preview/ef8a3b09efaa376859c4c8ccfa362b82-doctor-man-character-by-vexels.png);
+    width: 400px;
+    height: 370px;
+    margin: 0 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;   
+    border-radius:10px ;
+
+}
+
+.chap3 {
+    background-image: url(https://lh3.googleusercontent.com/proxy/z9sjN4EbNzMOba4eFfSVK5jyEtK_CFG6V2aGuaPDAAKpsQ0SXT3FOsVWtR6fpzBXaiYnHguLIo_fHuxg18P8MchGlw1yaMaMjNHBVRg);
+    width: 400px;
+    height: 370px;
+    margin: 0 100px;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;   
+    border-radius:10px ;
+
+}
+
+
+
+.slidetexth1 h1 {
+    width: 260px;
+    text-align: left;
+    font: normal normal 600 20px/27px WeblySleek UI;
+    color: #197395;
+
+}
+
+.p {
+    margin: 10px 0;
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #888888;
+}
+
+.border {
+    width: 50px;
+    margin: 20px 0;
+    border: 1px solid #197395;
+}
+
+
+.p2 {
+    text-align: left;
+    font: normal normal 600 16px/21px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+}
+
+

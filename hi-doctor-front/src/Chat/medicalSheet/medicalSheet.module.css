@@ -1,0 +1,93 @@
+.chatBigbox{
+    padding: 150px 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #F8F8F8
+}
+
+.container {
+    max-width: 1170px !important;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 70px;
+
+}
+.texth1{
+    margin: 20px 0;
+    text-align: left;
+    font: normal normal 600 16px/22px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #242525;
+}
+
+.text1{
+    text-align: left;
+    font: normal normal 600 14px/22px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #2B5F7D;
+}
+
+
+
+.bigBoxRadioinput{
+    margin: 20px 0;
+    display: flex;
+}
+
+.bigBoxRadioinput div{
+}
+
+.radioInput input{
+    margin-left:30px;
+
+}
+.radioInput label{
+    margin-left:5px;
+}
+.textinput{
+text-align: left;
+font: normal normal 600 14px/19px WeblySleek UI;
+letter-spacing: 0px;
+color: #2B5F7D;
+
+    margin-left: 30px;
+}
+
+.inputkg{
+    width: 120px;
+    height: 40px;
+    margin-left:30px;
+    margin-top: 10px;
+    padding-left: 10px;
+    text-align: left;
+    font: normal normal 600 16px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #2B5F7D; }
+
+
+.kg{
+    margin: 0 10px;
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #2B5F7D; 
+}
+
+.big{
+    margin-right:150px;
+}
+.textlabel2{
+    text-align: left;
+    font: normal normal 600 16px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #2B5F7D; 
+}
+.textlabel{
+    text-align: left;
+    font: normal normal 600 20px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #2B5F7D; 
+}

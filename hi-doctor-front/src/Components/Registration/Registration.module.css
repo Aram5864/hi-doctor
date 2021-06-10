@@ -1,0 +1,224 @@
+.registration {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    width: 100%;
+    z-index: 1;
+}
+.registration::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    min-height:1328px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #0A2029 0% 0% no-repeat padding-box;
+    opacity: 0.3;
+    z-index: -1;
+}
+.container {
+    max-width: 1170px !important;
+    /*width: 100%;*/
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
+
+.reg2 {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 60px #0000001A;
+    border-radius: 20px;
+    opacity: 1;
+    width: 485px;
+    height: 600px;
+    z-index: 8;
+    position: relative;
+
+}
+
+.regh1 {
+    text-align: left;
+    font: normal normal 600 18px/24px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    text-transform: capitalize;
+    margin: 5px 0;
+}
+
+.closeModal {
+    font-size: 20px;
+    color: #197395;
+    font-weight: 600;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}
+
+.inputBorder {
+    margin-right: 52px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #197395;
+}
+
+.contentFlex {
+    display: flex;
+}
+
+.inputBorder::placeholder {
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+}
+
+.formDiv {
+    position: relative;
+    margin-top: 30px;
+}
+.label {
+    position: absolute;
+    top: -5px;
+    left: 0;
+    color: #197395;
+    font-weight: 600;
+    transition: .5s;
+}
+.formDiv input:focus ~ label,
+.formDiv select:focus ~ label,
+.focus {
+    top: -18px;
+    font-size: 13px;
+}
+
+
+.select {
+    width: 170px;
+    margin-right: 52px;
+    border: none;
+    border-bottom: 1px solid #197395;
+    outline: none;
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    opacity: 1;
+}
+
+.inputBorder1 {
+    width: 394px;
+    margin-right: 52px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #197395;
+}
+
+.inputBorder1::placeholder {
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+}
+
+.textreg1 {
+    margin: 10px 0;
+    text-align: left;
+    font: normal normal 600 12px/16px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #39A8D2;
+    opacity: 1;
+}
+
+
+.check {
+    margin-left: 10px;
+    margin-right: 50px;
+    text-align: left;
+    font: normal normal 600 12px/16px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+}
+
+.checkbox {
+    margin: 25px 0;
+}
+
+.submit {
+    background: #197395 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    width: 400px;
+    height: 48px;
+    outline: none;
+    text-align: center;
+    font: normal normal 600 18px/24px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.regend {
+    position: absolute;
+    position: fixed;
+    width: 485px;
+    height: 625px;
+    background: #197395 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 60px #0000001A;
+    border-radius: 20px;
+    opacity: 1;
+    z-index: 7;
+    margin-top: 10px;
+}
+
+.linkReg {
+    text-align: left;
+    font: normal normal 600 12px/16px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+}
+
+
+.urishban{
+    width: 100%;
+    position: absolute;
+    height: 800px;
+    left: 0;
+    top: 0;
+}
+
+.imgPassword {
+
+    right: 90px;
+    position: relative;
+}
+
+.regLogIn{
+    width: 100%;
+    min-height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+.regLogIn p{
+
+    margin: 0 10px;
+    font: normal normal 600 12px/16px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+}
+
+.regLog{
+    text-decoration: none;
+    font: normal normal 600 16px/16px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    }
+.regLog:hover{
+color: #093747;
+        }

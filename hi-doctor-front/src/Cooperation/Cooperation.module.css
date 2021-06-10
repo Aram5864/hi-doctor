@@ -1,0 +1,131 @@
+.registration {
+    padding: 115px 0;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    min-height: 765px;
+    background: #0A2029 0% 0% no-repeat padding-box;
+    opacity: 0.9;
+
+
+}
+
+.container {
+    max-width: 1170px !important;
+    width: 100%;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+}
+
+.reg2 {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 60px #0000001A;
+    border-radius: 20px;
+    opacity: 1;
+    width: 484px;
+    height: 510px;
+    z-index: 8;
+    position: relative;
+}
+
+
+.regend {
+    position: absolute;
+    position: fixed;
+    width: 484px;
+    height: 560px;
+    background: #197395 0% 0% no-repeat padding-box;
+    box-shadow: 0px 0px 60px #0000001A;
+    border-radius: 20px;
+    opacity: 1;
+    z-index: 7;
+}
+
+
+.urishban {
+    width: 100%;
+    min-height: 765px;
+
+}
+
+
+.displayh1 {
+    display: flex;
+}
+
+.displayh1 h1 {
+    text-align: left;
+    font: normal normal 600 20px/27px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    margin: 15px 30px;
+}
+
+.pCoop {
+    margin: 20px 0;
+    width: 295px;
+    text-align: left;
+    font: normal normal 600 16px/22px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #0D496B;
+}
+
+.inpcoop {
+    width: 145px;
+    height: 30px;
+    border: 1px solid #888888;
+    border-radius: 4px;
+    outline: none;
+    margin: 10px 10px;
+    padding: 0 10px;
+
+}
+
+.inpcoop::placeholder {
+    padding-left: 5px;
+    text-align: left;
+    font: normal normal 300 16px/21px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #888888;
+}
+
+.namecoop {
+    text-align: left;
+    font: normal normal 300 16px/21px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #888888;
+    margin: 10px 10px;
+}
+
+.Cooperationdisp {
+    display: flex;
+}
+
+.buttoncoop {
+    margin: 13px 55px;
+    width: 260px;
+    height: 48px;
+    background: #197395 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    text-align: center;
+    font: normal normal 600 18px/24px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    outline: none;
+}
+.buttoncoop:hover {
+    box-shadow: 0px 2px 30.1px 4.9px rgba(145, 145, 145, 0.815);
+
+}
+
+.textmessage{
+    padding: 10px 10px;
+    margin: 0 10px;
+    border-radius: 10px;
+}

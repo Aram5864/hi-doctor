@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  width: 100%;
+  min-height: 1506px;
+  background-image: url(./image/background\ element\ 01.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.section1 {
+  width: 100%;
+  min-height: 985px;
+  background-image: url(./image/slider\ picture.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+.Backimg{
+  background-image: url(image/background\ element\ 02.png);
+  width: 100%;
+  min-height: 770px;
+  background-position: right;
+  background-repeat: no-repeat;
+}

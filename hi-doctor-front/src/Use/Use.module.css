@@ -1,0 +1,55 @@
+.body {
+    padding: 120px 0;
+
+    background-color: #F3F7F9;
+}
+
+
+.container {
+    max-width: 1170px !important;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Useh1 {
+    text-align: left;
+    font: normal normal 600 18px/24px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #0D496B;
+    padding: 50px 0;
+}
+
+.Usep {
+    margin: 40px 0;
+    text-align: left;
+    font: normal normal 600 14px/22px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #0D496B;
+}
+
+.Usep2 {
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #020B39;
+    text-transform: capitalize;
+}
+
+
+
+.forme {
+    text-align: left;
+    font: normal normal 600 16px/27px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    margin: 70px 0;
+}
+
+.gic {
+    width: 50px;
+    border-bottom: 2px solid #197395;
+    margin: 10px 0;
+}

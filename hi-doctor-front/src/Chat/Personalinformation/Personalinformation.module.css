@@ -1,0 +1,111 @@
+.PiBigbox{
+    padding: 150px 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #F8F8F8
+}
+
+.container {
+    max-width: 1170px !important;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    min-height: 70px;
+
+}
+
+.imgbox{
+    margin: 40px 0;
+    border-radius: 10px;
+    width: 160px;
+    height: 160px;
+    border: 2px solid #E7E7E7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+.textinp{
+    text-align: left;
+    font: normal normal 600 14px/19px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #0D496B;
+}
+.inp{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 10px;
+    border: 2px solid #EBEBEB;
+}
+.inputbigbox{
+    display: flex;
+}
+.inputbox div{
+margin-right: 20px;
+margin-top: 20px;
+
+}
+.inputbox2 div{
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+.inputbox3 div{
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+.imgupload{
+    display:none;
+}
+
+.imgbox:hover{
+    box-shadow: 0px 2px 30.1px 4.9px rgba(145, 145, 145, 0.815);
+
+}
+.submit{
+margin: 40px 0;
+}
+.butt1{
+    width: 370px;
+    height: 48px;
+    text-align: center;
+    font: normal normal 600 18px/24px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    text-transform: capitalize;
+    border-radius: 10px;
+    outline: none;
+    border:1px solid #C5DBE4;
+
+
+}
+.butt1:hover{
+    background-color: #8CB9CA;
+    cursor: pointer;
+}
+.butt2{
+    border:1px solid #C5DBE4;
+    text-align: center;
+    font: normal normal 600 18px/24px WeblySleek UI;
+    letter-spacing: 0px;
+    color: #197395;
+    text-transform: capitalize;
+    width: 370px;
+    height: 48px;
+    margin: 0 30px;
+    border-radius: 10px;
+    outline: none;
+
+
+}
+.butt2:hover{
+    background-color: #8CB9CA;
+    cursor: pointer;
+
+}
